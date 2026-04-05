@@ -1,0 +1,24 @@
+{
+  "name": "unofficial-examdee.ai-vietnam.vn-host-files-",
+  "version": "1.0.0",
+  "description": "also who added a free fire victory screenshot to",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EndemansetNEW/UNOFFICIAL-examdee.ai-vietnam.vn-host-files-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EndemansetNEW/UNOFFICIAL-examdee.ai-vietnam.vn-host-files-/issues"
+  },
+  "homepage": "https://github.com/EndemansetNEW/UNOFFICIAL-examdee.ai-vietnam.vn-host-files-#readme",
+  "dependencies": {
+    "typescript": "^6.0.2"
+  }
+}
