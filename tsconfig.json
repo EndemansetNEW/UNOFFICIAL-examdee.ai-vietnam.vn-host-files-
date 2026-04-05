@@ -1,28 +1,13 @@
 {
   "compilerOptions": {
-    "module": "nodenext",
-    "target": "esnext",
-
-    "rootDir": "./cdn.platform.openai.com/chatkit-web-shared/src",
+    "target": "ES2020",
+    "module": "ESNext",
+    "rootDir": "./src",
     "outDir": "./dist",
-
-    "sourceMap": true,
-    "declaration": true,
-    "declarationMap": true,
-
-    "noUncheckedIndexedAccess": true,
-    "exactOptionalPropertyTypes": true,
-
     "strict": true,
-    "jsx": "react-jsx",
-    "verbatimModuleSyntax": true,
-    "isolatedModules": true,
-    "noUncheckedSideEffectImports": true,
-    "moduleDetection": "force",
+    "esModuleInterop": true,
     "skipLibCheck": true
   },
-  "include": [
-    "cdn.platform.openai.com/chatkit-web-shared/src/**/*"
-  ]
+  "include": ["src/**/*"],
+  "exclude": ["cdn.platform.openai.com"]
 }
-
