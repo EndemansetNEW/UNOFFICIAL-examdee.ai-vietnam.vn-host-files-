@@ -8,13 +8,13 @@ self.addEventListener("install", (event) => {
         "/index.html",
         "/UNOFFICIAL-examdee.ai-vietnam.vn-host-files-/examdee.ai-vietnam.vn/assets/index-BUoCWu2I.js",
         "/UNOFFICIAL-examdee.ai-vietnam.vn-host-files-/examdee.ai-vietnam.vn/assets/index-Bcm3ID3h.css",
-        "/offline-api/user.json",
-        "/offline-api/lessons.json",
-        "/offline-api/pronunciation.json",
-        "/offline-api/progress.json",
-        "/offline-api/live.json",
-        "/offline-api/exam.json",
-        "/offline-api/common.json"
+        "/UNOFFICIAL-examdee.ai-vietnam.vn-host-files-/examdee.ai-vietnam.vn/offline-api/user.json",
+        "/UNOFFICIAL-examdee.ai-vietnam.vn-host-files-/examdee.ai-vietnam.vn/offline-api/lessons.json",
+        "/UNOFFICIAL-examdee.ai-vietnam.vn-host-files-/examdee.ai-vietnam.vn/offline-api/pronunciation.json",
+        "/UNOFFICIAL-examdee.ai-vietnam.vn-host-files-/examdee.ai-vietnam.vn/offline-api/progress.json",
+        "/UNOFFICIAL-examdee.ai-vietnam.vn-host-files-/examdee.ai-vietnam.vn/offline-api/live.json",
+        "/UNOFFICIAL-examdee.ai-vietnam.vn-host-files-/examdee.ai-vietnam.vn/offline-api/exam.json",
+        "/UNOFFICIAL-examdee.ai-vietnam.vn-host-files-/examdee.ai-vietnam.vn/offline-api/common.json"
       ]);
     })
   );
