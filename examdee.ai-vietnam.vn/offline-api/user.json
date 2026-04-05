@@ -1,0 +1,12 @@
+{
+  "name": "Offline User",
+  "level": "ai don knau",
+  "streak": 360,
+  "xp": 400003,
+  "goals": ["practice pronunciation", "review lessons", "stay on streak"],
+  "settings": {
+    "language": "vi",
+    "theme": "light",
+    "notifications": true
+  }
+}
