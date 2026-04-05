@@ -1,0 +1,184 @@
+{
+  "waiting": {
+    "title": "You have successfully joined the waiting room",
+    "questionNumber": "questions",
+    "examdeeLiveCode": "Examdee Live Code",
+    "examdeeLiveLink": "Examdee Live Link",
+    "coordinator": "Coordinator",
+    "members": "Members",
+    "participant": "Participant",
+    "control": "Enter control mode",
+    "you": "You"
+  },
+  "setting": {
+    "title": "Settings",
+    "button": {
+      "save": "Save changes"
+    },
+    "saveSuccess": "Saved successfully",
+    "saveSuccessDescription": "Changes have been saved",
+    "saveFailed": "Save failed",
+    "saving": "Saving...",
+    "invalidQuestionTime": "Answer time for {{count, plural, =1 {question} other {questions}} {{questions}} is invalid",
+    "minQuestionTime": "Answer time must be at least 5 seconds",
+    "overview": {
+      "title": "Overview",
+      "description": "ExamDee Live activities are operated according to the coordinator's commands, so the time limit preset in the exam is not applied.",
+      "language": {
+        "title": "Display language",
+        "options": {
+          "vi": "Vietnamese",
+          "en": "English"
+        }
+      },
+      "scoringStrategy": {
+        "title": "Correctness scoring method",
+        "options": {
+          "absolute": "Absolutely correct",
+          "custom": "Partially correct"
+        },
+        "select": "Select correctness scoring method"
+      },
+      "displayClock": "Show countdown clock",
+      "sameQuestionTime": "Questions have the same answer time",
+      "answerTimePerQuestion": "Answer time per question",
+      "seconds": "Seconds",
+      "gradingType": "Grading mechanism",
+      "gradingTypeOptions": {
+        "timeBased": "Based on answer time",
+        "pointBased": "Based on number of correct answers"
+      },
+      "selectGradingType": "Select grading mechanism",
+      "editExam": "Edit exam",
+      "noPermissionEditExam": "You do not have permission to edit exam",
+      "downloadExam": "Download exam",
+      "previewExam": "Preview exam"
+    },
+    "exam": {
+      "questions": {
+        "title": "Question list",
+        "update": "Update latest exam",
+        "updating": "Updating...",
+        "updateSuccess": "Updated latest exam successfully",
+        "updateSuccessDescription": "Latest exam has been updated",
+        "updateFailed": "Failed to update latest exam",
+        "loading": "Loading question list...",
+        "time": "Time",
+        "grade": "Grade level",
+        "score": "Score"
+      }
+    }
+  },
+  "control": {
+    "inviteCode": "Invite code",
+    "endExamSuccess": "Exam ended successfully",
+    "examEnded": "The exam has been ended",
+    "systemError": "System error",
+    "systemErrorRetry": "System error, please try again",
+    "exitControlMode": "Exit control mode",
+    "home": "Home",
+    "endExam": "End exam",
+    "start": "Start",
+    "recreateExam": "Recreate exam",
+    "questions": "questions",
+    "question": "Question",
+    "endQuestion": "End question",
+    "nextQuestion": "Next question",
+    "leaderboard": "Leaderboard",
+    "questionStatus": "Question status",
+    "members": "Members",
+    "warnings": "Warnings",
+    "answered": "Answered",
+    "participant": "Participant",
+    "featureInDevelopment": "Feature under development",
+    "questionList": "Question list",
+    "preview": "Preview",
+    "switchToNextQuestion": "Switch to next question",
+    "switchToNextQuestionConfirm": "Some students are still answering,\n are you sure you want to switch to\n the next question?",
+    "goBack": "Go back",
+    "switchQuestion": "Switch question",
+    "previewQuestion": "Preview question",
+    "downloadReport": "Download report"
+  },
+  "live": {
+    "endExam": "End exam",
+    "endExamConfirm": "Are you sure you want to end the exam and leave the Live room?",
+    "end": "End"
+  },
+  "leaderboard": {
+    "title": "Leaderboard",
+    "loading": "Loading data...",
+    "updating": "Updating..."
+  },
+  "finish": {
+    "title": "Exam finished!",
+    "score": "Score"
+  },
+  "student": {
+    "error": "Error",
+    "cannotStartExam": "Cannot start exam. Please try again",
+    "toast": {
+      "submittedTitle": "Answer submitted",
+      "submittedDescription": "Your answer has been saved"
+    }
+  },
+  "error": {
+    "anotherTeacherHosting": "Another teacher is currently hosting, please come back later!",
+    "noPermission": "You do not have permission to access this page. Please contact administrator if you need support.",
+    "noPermissionJoin": "You do not have permission to join this Examdee live. Please contact teacher if you need support",
+    "noValidQuestions": "Assessment is not available on Examdee Live due to no valid questions remaining. The system automatically removes Speaking questions, so if there are no questions left after filtering, the exam cannot start.",
+    "hostingInAnotherTab": "You are hosting this activity in another window or browser tab",
+    "cannotConnect": "Cannot connect to Examdee live room",
+    "cannotAccessDirectly": "Cannot access directly! This page must be opened from the control panel!",
+    "notFound": "Cannot find this Examdee Live. Please contact administrator if you need support.",
+    "generic": "An error occurred, please contact administrator if you need support.",
+    "reload": "Reload page"
+  },
+  "kickout": {
+    "title": "You have left the room",
+    "description": "You have been removed from the waiting room because you logged in on another page",
+    "goHome": "Go home"
+  },
+  "duplicate": {
+    "title": "You have logged in elsewhere",
+    "description": "If you continue on this page, you will be logged out on the other page. Do you want to continue on this page?",
+    "continue": "Continue"
+  },
+  "notConnected": {
+    "title": "Connection interrupted",
+    "description": "Please wait"
+  },
+  "liveScreen": {
+    "title": "Live screen",
+    "createProjectionWindow": "Create projection window",
+    "description": "Serves presentation mode, displays questions, leaderboard, student status."
+  },
+  "screenRouter": {
+    "startingSoon": "Starting soon",
+    "waiting": "Waiting..."
+  },
+  "fullscreen": {
+    "enter": "Full screen",
+    "exit": "Exit full screen"
+  },
+  "answerStats": {
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "noAnswer": "No answer",
+    "answeredCorrect": "Answered correctly",
+    "answeredIncorrect": "Answered incorrectly"
+  },
+  "studentLive": {
+    "loadingQuestion": "Loading question...",
+    "submitting": "Submitting...",
+    "submitted": "Submitted",
+    "resubmit": "Resubmit answer",
+    "confirm": "Submit",
+    "submittingAnswer": "Submitting answer",
+    "questionEnded": "Question ended",
+    "excellent": "Excellent! 🎉",
+    "incorrect": "Incorrect 😅",
+    "notAnswered": "Not answered 😅",
+    "selectCorrectAnswer": "Select correct answer"
+  }
+}
