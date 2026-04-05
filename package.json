@@ -18,7 +18,7 @@
     "url": "https://github.com/EndemansetNEW/UNOFFICIAL-examdee.ai-vietnam.vn-host-files-/issues"
   },
   "homepage": "https://github.com/EndemansetNEW/UNOFFICIAL-examdee.ai-vietnam.vn-host-files-#readme",
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^6.0.2"
   }
 }
